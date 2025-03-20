@@ -49,7 +49,7 @@ App Android (Android 5.0 ou superior).
 
 ⚙️ Configuração
 1️⃣ Clone este repositório
-git clone https://github.com/seu_usuario/esp01-mqtt-control.git
+git clone https://github.com/Talis-dev/esp01_riveMQ_8chRelay.git
 
 2️⃣ Configure as credenciais MQTT
 Abra o arquivo principal e configure:
